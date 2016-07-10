@@ -1,0 +1,1 @@
+# cordova-typescript-react-seed
