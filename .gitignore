@@ -1,0 +1,17 @@
+﻿# .gitignore
+
+node_modules/
+bin/
+bld/
+plugins/
+platforms/
+www/js/
+
+*.suo
+*.user
+.vs/
+.vscode/
+*.user
+*.suo
+
+

@@ -1,0 +1,25 @@
+{
+  "name": "cordova-typescript-seed",
+  "version": "1.0.0",
+  "private": true,
+  "author": {
+    "name": "rido"
+  },
+  "dependencies": {
+    
+  },
+  "scripts": {
+    "tsc": "node_modules/.bin/tsc",
+    "tsc:w": "node_modules/.bin/tsc -w",
+    "tslint": "node_modules/.bin/tslint app\\*",
+    "tsd": "node_modules/.bin/tsd install"        
+  },
+  "devDependencies": {
+    "tsd": "^0.6.5",
+    "tslint": "^3.13.0",
+    "typescript": "^1.8.10",
+    "systemjs": "^0.19.31",
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1"
+  }
+}
